@@ -260,7 +260,6 @@ body {
     transform: rotate(720deg);
   }
 }
-}
 #page2 > .p2_circle:after {
   position: absolute;
   top: 0;
