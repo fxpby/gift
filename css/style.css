@@ -93,7 +93,7 @@ body {
   right: 0;
   left: 0;
   margin: auto;
-  background: url(../images/p1_lantern3.png) no-repeat center bottom;
+  background: url(../images/p1_lantern5.png) no-repeat center bottom;
   background-size: 100%;
   width: 65vw;
   height: 100vh;
@@ -324,7 +324,7 @@ body {
   transform: translate(0, -100%);
 }
 #page3 > .bg {
-  background: url("../images/p3_bg1.jpg") no-repeat center center;
+  background: url("../images/flower.png") no-repeat center center;
   background-size: 100%;
 }
 #page3 > .p3_logo {
@@ -393,7 +393,7 @@ body {
   bottom: 10vh;
   margin: auto;
   border-radius: 50%;
-  background: url("../images/p3_blessing2.jpg") no-repeat center center;
+  background: url("../images/mom1.png") no-repeat center center;
   background-size: 100%;
   -webkit-animation: p3_blessing 2s linear infinite;
   animation: p3_blessing 2s linear infinite;
